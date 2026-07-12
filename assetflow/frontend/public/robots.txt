@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /auth
+Disallow: /forgot-password
+Disallow: /reset-password
+Disallow: /dashboard
+Disallow: /assets
+Disallow: /allocations
+Disallow: /booking
+Disallow: /maintenance
+Disallow: /audits
+Disallow: /reports
+Disallow: /notifications
+Disallow: /organization
+Disallow: /settings
